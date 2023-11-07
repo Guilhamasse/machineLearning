@@ -1,2 +1,2 @@
-# machineLearning
+# Machine Learning
 Projet Modélisations mathématiques
