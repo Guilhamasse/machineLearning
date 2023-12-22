@@ -34,12 +34,6 @@ ifdef::env-github[]
 :icongit: Git
 endif::[]
 
-// Tags
-image:{baseURL}/actions/workflows/build.yml/badge.svg[Build] 
-image:{baseURL}/actions/workflows/tests.yml/badge.svg[Tests] 
-image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
-//---------------------------------------------------------------
-
 == Qu’est-ce que le machine learning ?
 
 Le machine learning, ou apprentissage automatique en français, est une branche de l'intelligence artificielle qui se concentre sur le développement de techniques permettant aux ordinateurs d'apprendre à partir de données et d'améliorer leurs performances sur une tâche spécifique sans être explicitement programmés. Le machine learning repose sur la capacité des ordinateurs à identifier des modèles dans les données et à prendre des décisions ou à effectuer des prédictions en fonction de ces modèles.
