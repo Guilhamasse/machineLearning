@@ -1,14 +1,4 @@
 = Machine Learning
-Jean-Michel Bruel
-v23.1, {localdate}
-:mailto: jbruel@gmail.com
-:status: bottom
-:inclusion:
-:experimental:
-:toc: toc2
-:icons: font
-:window: _blank
-:asciidoctorlink: link:http://asciidoctor.org/[Asciidoctor]indexterm:[Asciidoctor]
 
 // Useful definitions
 :asciidoc: http://www.methods.co.nz/asciidoc[AsciiDoc]
