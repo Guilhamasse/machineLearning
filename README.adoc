@@ -1,3 +1,9 @@
+// ------------------------------------------
+//  Created by Jean-Michel Bruel on 2019-12.
+//  Copyright (c) 2019 IRIT/U. Toulouse. All rights reserved.
+// Thanks to Louis Chanouha for code & idea
+// ------------------------------------------
+= Machine Learning
 Jean-Michel Bruel
 v23.1, {localdate}
 :mailto: jbruel@gmail.com
@@ -27,8 +33,12 @@ ifdef::env-github[]
 :warning-caption: :warning:
 :icongit: Git
 endif::[]
-= Machine Learning
-Projet Modélisations mathématiques
+
+// Tags
+image:{baseURL}/actions/workflows/build.yml/badge.svg[Build] 
+image:{baseURL}/actions/workflows/tests.yml/badge.svg[Tests] 
+image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
+//---------------------------------------------------------------
 
 == Qu’est-ce que le machine learning ?
 
