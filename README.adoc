@@ -34,6 +34,12 @@ Le machine learning, ou apprentissage automatique en français, est une branche 
 
 L'intelligence artificielle (IA) est un domaine de l'informatique qui se consacre à la création de systèmes informatiques capables d'imiter des fonctions intellectuelles humaines, telles que la résolution de problèmes, l'apprentissage, la prise de décision, la reconnaissance de motifs, et la compréhension du langage naturel. L'objectif de l'IA est de développer des machines et des logiciels qui peuvent effectuer des tâches qui, autrement, nécessiteraient l'intelligence humaine. Elle englobe des techniques telles que le machine learning, le deep learning, le traitement du langage naturel, la vision par ordinateur, la robotique, et bien d'autres. L'IA est utilisée dans de nombreux domaines, y compris la médecine, la finance, l'automobile, la reconnaissance vocale, la traduction automatique, et la gestion des données, pour n'en nommer que quelques-uns.
 
+== Exemples d'algorithmes
+
+Les 3 types d'apprentissage seront présenté avec des algorithmes qui les utilise. Voici le lien du notebook Jupyther çi dessous.
+
+https://github.com/Guilhamasse/machineLearning/blob/main/modelisationMaths.ipynb
+
 
 == L'apprentissage supervisé
 
