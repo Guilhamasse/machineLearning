@@ -84,3 +84,17 @@ L'algorithme des k plus proches voisins, également connu sous le nom de KNN ou 
 
 SVM (Support Vector Machine ou Machine à vecteurs de support) : Les SVMs sont une famille d'algorithmes d'apprentissage automatique qui permettent de résoudre des problèmes tant de classification que de régression ou de détection d'anomalie.
 
+
+== Exemple concret de machine learning
+
+https://www.youtube.com/watch?v=Dw3BZ6O_8LY&t=20s
+
+L'idée de créer une intelligence artificielle (IA) capable d'apprendre par le biais du Reinforcement Learning, comme illustré dans cette vidéo où elle cherche à réaliser les meilleurs scores dans Trackmania, offre un aperçu fascinant de l'apprentissage autonome des machines.
+
+Initialement, cette IA commence sans connaissance du jeu, effectuant des actions de manière aléatoire. Cependant, chaque action est évaluée en fonction de sa performance, récompensant les actions bénéfiques par des points. À travers de multiples essais et erreurs, l'IA apprend progressivement le meilleur chemin à emprunter pour maximiser ses gains.
+
+La clé de cette progression réside dans la création et l'utilisation d'une base de données considérable. Cette base de données stocke une quantité colossale d'essais, permettant à l'IA d'analyser, apprendre et prendre des décisions plus intelligentes au fil du temps. En se basant sur ces données, elle affine ses choix et améliore ses performances sur le circuit, évoluant vers une maîtrise plus fine du jeu.
+
+Ce processus de perfectionnement par essais et erreurs nécessite une infrastructure solide et des capacités de traitement de données importantes. Pour des projets plus vastes que la simple optimisation de jeu, le volume de calcul requis augmente considérablement. Des applications plus complexes, comme la gestion logistique, la modélisation financière ou même la recherche médicale, exigent des quantités massives de données et de calculs pour que l'IA puisse apprendre et évoluer de manière significative.
+
+Ainsi, cette démonstration sur Trackmania offre un aperçu des défis et des possibilités de l'apprentissage automatique, soulignant à quel point des projets plus vastes nécessiteraient des ressources considérables en termes de calcul et de stockage de données pour permettre à l'IA d'apprendre de manière efficace et de réaliser des avancées significatives.
