@@ -81,7 +81,9 @@ image::images/kmean.png[]
 Exemple sur un site de l'utilisation de K-means
 
 https://kkevsterrr.github.io/K-Means/
+
 https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees/5177935-decouvrez-l-algorithme-k-means
+
 https://colab.research.google.com/github/OpenClassrooms-Student-Center/4525281-realisez-une-analyse-exploratoire-de-donnees/blob/main/notebooks/P3C2_iris_k_means.ipynb
 
 
