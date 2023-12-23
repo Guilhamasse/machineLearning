@@ -74,6 +74,12 @@ Il est non déterministe, c'est-à-dire que les clusters obtenus peuvent changer
 Il a toutefois besoin qu'on lui spécifie le nombre de clusters à produire.
 Pour choisir le nombre de clusters, on applique la méthode du "coude", et on cherche une "cassure" dans la courbe liant la variance intraclasse au nombre de clusters.
 
+image::images/kmean.png[]
+
+
+
+Exemple sur un site de l'utilisation de K-means
+
 https://kkevsterrr.github.io/K-Means/
 https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees/5177935-decouvrez-l-algorithme-k-means
 https://colab.research.google.com/github/OpenClassrooms-Student-Center/4525281-realisez-une-analyse-exploratoire-de-donnees/blob/main/notebooks/P3C2_iris_k_means.ipynb
